@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "lib": ["dom", "esnext"], // Add this line
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
